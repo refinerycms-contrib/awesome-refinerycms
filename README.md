@@ -12,7 +12,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ### Extensions
 * [Blog](https://github.com/refinery/refinerycms-blog)
-* [Inquiries]https://github.com/refinery/refinerycms-inquiries)
+* [Inquiries](https://github.com/refinery/refinerycms-inquiries)
 * [News](https://github.com/refinery/refinerycms-news)
 * [Page Images](https://github.com/refinery/refinerycms-page-images)
 * [Porfolio](https://github.com/refinery/refinerycms-portfolio)
