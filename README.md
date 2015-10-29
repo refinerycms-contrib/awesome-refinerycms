@@ -1,6 +1,24 @@
 # Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
+A collection of awesome [Refinery CMS](http://www.refinerycms.com/) 3.0 extensions, resources and shiny things.
+
+## Frontoffice extensions
+* [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
+* [refinerycms-elasticsearch](https://github.com/datenimperator/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby)
+* [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows
+* [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications
+* [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products
+* [refinerycms-retailers](https://github.com/bisscomm/refinerycms-retailers) - Display retailers
+* [refinerycms-teams](https://github.com/bisscomm/refinerycms-teams) - Display teams
+* [refinerycms-videos](https://github.com/bisscomm/refinerycms-videos) - Display Youtube videos
+
+## Backoffice extensions
+* [refinerycms-page-resources](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
+* [refinerycms-resource-categories](https://github.com/bisscomm/refinerycms-resource-categories) - Categorize resources
+
+## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
+* [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
+* [spree-refinery-authentication](https://github.com/bricesanchez/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
 ## Refinery team extensions
 
