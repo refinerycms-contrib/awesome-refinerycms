@@ -1,6 +1,6 @@
 # Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome [Refinery CMS](http://www.refinerycms.com/) 3.0 extensions, resources and shiny things.
+A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
