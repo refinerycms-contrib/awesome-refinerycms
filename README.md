@@ -10,7 +10,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products
 * [refinerycms-retailers](https://github.com/bisscomm/refinerycms-retailers) - Display retailers
 * [refinerycms-teams](https://github.com/bisscomm/refinerycms-teams) - Display teams
-* [refinerycms-videos](https://github.com/bisscomm/refinerycms-videos) - Display Youtube videos
+* [refinerycms-videos](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
 
 ## Backoffice extensions
 * [refinerycms-page-resources](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
@@ -28,13 +28,17 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [Pages](https://github.com/refinery/refinerycms/tree/master/pages)
 * [Resources](https://github.com/refinery/refinerycms/tree/master/resources)
 
-### Extensions
-* [Blog](https://github.com/refinery/refinerycms-blog)
-* [Inquiries](https://github.com/refinery/refinerycms-inquiries)
-* [News](https://github.com/refinery/refinerycms-news)
-* [Page Images](https://github.com/refinery/refinerycms-page-images)
-* [Porfolio](https://github.com/refinery/refinerycms-portfolio)
-* [Search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed)
+### Frontoffice extensions
+* [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
+* [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms
+* [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news
+* [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images
+* [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed)
+* [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
+
+### Backoffice extensions
+* [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page
+* [refinerycms-settings](https://github.com/refinery/refinerycms-settings) - Change settings in the backoffice
 
 ### Developer tools
 * [Forms](https://github.com/refinery/refinerycms-forms)
