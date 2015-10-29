@@ -29,12 +29,12 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [Resources](https://github.com/refinery/refinerycms/tree/master/resources)
 
 ### Frontoffice extensions
+* [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
 * [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news](https://github.com/refinery/refinerycms-news))
 * [refinerycms-inquiries](https://github.com/refinery/refinerycms-inquiries) - Send contact forms
 * [refinerycms-news](https://github.com/refinery/refinerycms-news) - Basic display of news
 * [refinerycms-porfolio](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images
 * [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed](https://github.com/dougal/acts_as_indexed)
-* [refinerycms-authentication-devise](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
 
 ### Backoffice extensions
 * [refinerycms-page-images](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page
