@@ -23,10 +23,10 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ## Refinery team extensions
 
 ### Main project
-* [Core](https://github.com/refinery/refinerycms)
-* [Images](https://github.com/refinery/refinerycms)
-* [Pages](https://github.com/refinery/refinerycms)
-* [Resources](https://github.com/refinery/refinerycms)
+* [Core](https://github.com/refinery/refinerycms/tree/master/core)
+* [Images](https://github.com/refinery/refinerycms/tree/master/images)
+* [Pages](https://github.com/refinery/refinerycms/tree/master/pages)
+* [Resources](https://github.com/refinery/refinerycms/tree/master/resources)
 
 ### Extensions
 * [Blog](https://github.com/refinery/refinerycms-blog)
