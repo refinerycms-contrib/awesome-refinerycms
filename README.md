@@ -46,8 +46,8 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ---
 
-# License
+## License
 
-[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+To the extent possible under law, [Brice Sanchez](http://brice-sanchez.com) has waived all copyright and related or neighboring rights to this work.
