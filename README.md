@@ -13,6 +13,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-videos](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
 
 ## Backoffice extensions
+* [refinerycms-dynamicfields](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
 * [refinerycms-page-resources](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
 * [refinerycms-resource-categories](https://github.com/bisscomm/refinerycms-resource-categories) - Categorize resources
 
