@@ -4,7 +4,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## Frontoffice extensions
 * [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
-* [refinerycms-elasticsearch](https://github.com/datenimperator/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby)
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch](https://github.com/elastic/elasticsearch-ruby)
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications
 * [refinerycms-products](https://github.com/bisscomm/refinerycms-products) - Display products
@@ -27,7 +27,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 ## [Spree e-commerce](https://github.com/spree/spree) + Refinery extensions
 * [spree_refinery_resources](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
-* [spree-refinery-authentication](https://github.com/bricesanchez/spree-refinery-authentication) - Shared auth between Spree and Refinery
+* [spree-refinery-authentication](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
 ## Refinery team extensions
 
